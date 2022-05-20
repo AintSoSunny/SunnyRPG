@@ -1,0 +1,44 @@
+
+pTurns = 1
+pRNGType: "None"
+enHP = 0
+enSpd = 0
+enAtk = 0
+enRNG = False
+enRNGType = "None"
+enRNGNum = 0
+enBld = False
+enTotal = 4
+pDmg = 0
+pKnck = False
+pBld = False
+bldDmg = 2
+enKnck = False
+enBld = False
+pDur = 0
+enDur = 0
+enTurns = 0
+koCancel = False
+enDef = False
+enDefVal = 0
+itemUse = 1
+itemUseMax = 1
+pPoison = False
+global exp
+exp = 0
+expLvl = 1
+expGoal = 100
+boots = "None"
+armor = "None"
+helmet = "None"
+bValue = 0
+aValue = 0
+hValue = 0
+pAcc = 0
+pRNGNum = 0
+pTurns = 0
+pRNGType = "None"
+loot = []
+pCh = "Attack"
+ch = "Attack"
+pDurDisp = 0
